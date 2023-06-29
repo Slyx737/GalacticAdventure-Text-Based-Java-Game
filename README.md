@@ -1,7 +1,3 @@
-Sure, let's start with the README file for the GitHub repository.
-
----
-
 # GalacticAdventure: A Text-Based Adventure Game in Java
 
 ## Overview
