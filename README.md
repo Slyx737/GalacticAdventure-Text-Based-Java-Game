@@ -14,10 +14,15 @@ GalacticAdventure is a simple, text-based adventure game written in Java. This p
 ## How to Run - IntelliJ IDEA
 
 - After you finish your CodeChronicles Project
+  
 - Open IntelliJ IDEA.
+  
 - Click on File -> Open.
+  
 - Navigate to the directory where you saved the repository and click OK.
+  
 - Once the project is open, navigate to the AdventureGame.java file in the project explorer.
+  
 - Right-click on the file and select Run 'AdventureGame.main()'.
 
 ## Contributing
